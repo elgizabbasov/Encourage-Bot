@@ -5,4 +5,4 @@ Server invite: https://discord.gg/J8nyYcRZ
 
 # How to use:
 
-Type $inspire in chat.
+Type $inspire in discord server chat.
