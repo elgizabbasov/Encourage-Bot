@@ -1,5 +1,5 @@
 # Encourage-Bot
-Discord bot that responds with random encouraging quotes.
+Discord bot that responds with random encouraging quotes. Hosted on UptimeRobot.
 
 Server invite: https://discord.gg/J8nyYcRZ
 
